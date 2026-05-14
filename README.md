@@ -24,7 +24,7 @@ A beautiful transparent notepad desktop app that floats above all your windows. 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/transnote.git
+git clone https://github.com/Ahmed-Fekry/transnote.git
 
 # 2. Go into the folder
 cd transnote
